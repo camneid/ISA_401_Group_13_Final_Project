@@ -1,0 +1,324 @@
+---
+title: "01 - Scrape ride wait times (Queue Times)"
+output: html_document
+---
+
+```{r setup, message=FALSE}
+library(tidyverse)
+library(rvest)
+library(janitor)
+
+dir.create("data/raw", recursive = TRUE, showWarnings = FALSE)
+```
+
+## 1. Check robots.txt, then download the page
+
+(No `polite` package needed: we read robots.txt ourselves and pause between requests.)
+
+```{r fetch}
+park_id <- 8   # 8 = Animal Kingdom
+url     <- paste0("https://queue-times.com/parks/", park_id, "/stats")
+
+# Read robots.txt and look for rules that would block /parks/
+readLines("https://queue-times.com/robots.txt", warn = FALSE)
+
+polite_read <- function(u, delay = 5) {
+  Sys.sleep(delay)          # be kind to the server: one request every few seconds
+  read_html(u)
+}
+
+page <- polite_read(url)
+```
+
+## 2. Inspect: what tables are on the page?
+
+The ride tables are plain HTML, so `html_table()` works (no browser automation needed).
+The "Loading..." chart sections are JavaScript and are not needed.
+
+```{r inspect}
+all_tables <- page |> html_elements("table") |> html_table()
+length(all_tables)
+map(all_tables, names)   # find the tables whose headers mention "queue time"
+```
+
+## 3. Pull the two ride-level tables and tidy them
+
+Tables are found by header text rather than position, so the code survives if the page order changes.
+
+```{r tidy}
+park_name <- page |> html_element("h1") |> html_text2()
+
+find_table <- function(tables, pattern) {
+  hit <- keep(tables, ~ any(str_detect(names(.x), regex(pattern, ignore_case = TRUE))))
+  stopifnot("No table matched that header" = length(hit) >= 1)
+  hit[[1]]
+}
+
+avg_wait <- find_table(all_tables, "overall average") |>
+  clean_names() |>
+  rename(ride = 1, avg_wait_mins = 2)
+
+max_wait <- find_table(all_tables, "maximum") |>
+  clean_names() |>
+  rename(ride = 1, avg_max_wait_mins = 2)
+
+rides_wait <- avg_wait |>
+  full_join(max_wait, by = "ride") |>
+  mutate(
+    ride          = str_squish(ride),
+    avg_wait_mins = parse_number(as.character(avg_wait_mins)),
+    avg_max_wait_mins = parse_number(as.character(avg_max_wait_mins)),
+    park_id       = park_id,
+    park_name     = park_name,
+    scraped_at    = Sys.time()
+  )
+
+rides_wait
+```
+
+## 4. (Optional) Park-level crowd tables
+
+```{r crowd}
+crowd_by_month <- find_table(all_tables, "by month|^month") |> clean_names()
+```
+If that errors, run `map(all_tables, names)` and match the exact header text.
+
+## 5. (Optional) Discover year / event filter URLs
+
+The year and event filters are links. List them instead of guessing the URL format.
+
+```{r links}
+page |>
+  html_elements("a") |>
+  html_attr("href") |>
+  str_subset("stats") |>
+  unique()
+```
+Once you know the pattern, wrap steps 2-3 in a function and loop over parks and years,
+using `polite_read(new_url)` so the delay between requests is respected.
+
+## 6. Save the raw data
+
+```{r save}
+write_csv(rides_wait, paste0("data/raw/queue_times_park_", park_id, ".csv"))
+```
+
+## 7. Quick validation
+
+```{r validate}
+rides_wait |> filter(is.na(avg_wait_mins) | avg_wait_mins < 0 | avg_wait_mins > 300)
+rides_wait |> count(ride) |> filter(n > 1)   # duplicates
+stopifnot(nrow(rides_wait) > 0)
+```
+
+```{r}
+library(tidyverse)
+library(rvest)
+library(janitor)
+
+url  <- "https://queue-times.com/parks/6/stats"
+page <- read_html(url)
+
+all_tables <- page |> html_elements("table") |> html_table()
+
+avg_wait <- all_tables |>
+  keep(~ any(str_detect(names(.x), regex("overall average", ignore_case = TRUE)))) |>
+  pluck(1) |>
+  clean_names() |>
+  rename(ride = 1, avg_wait_mins = 2) |>
+  mutate(ride = str_squish(ride),
+         avg_wait_mins = parse_number(as.character(avg_wait_mins)))
+
+avg_wait
+```
+
+```{r}
+# STEP 1: Install packages (only needed once)
+install.packages(c(
+  "tidyverse",
+  "rvest",
+  "janitor",
+  "jsonlite"
+))
+
+# STEP 2: Load libraries
+library(tidyverse)
+library(rvest)
+library(janitor)
+library(jsonlite)
+
+# STEP 3: Get every park from Queue Times
+park_groups <- fromJSON(
+  "https://queue-times.com/parks.json",
+  simplifyVector = FALSE
+)
+
+parks <- map_dfr(park_groups, function(group) {
+  map_dfr(group$parks, function(park) {
+    tibble(
+      park_id = as.integer(park$id),
+      park_name = park$name,
+      country = park$country
+    )
+  })
+})
+
+# View the full park list
+View(parks)
+
+# STEP 4: Filter to US amusement parks only
+
+parks <- parks |>
+  filter(country == "United States")
+
+# Choose which parks to scrape
+# TRUE = test on 3 parks
+# FALSE = scrape every US park
+
+test_mode <- FALSE
+
+if (test_mode) {
+  parks_to_scrape <- parks |>
+    filter(park_name %in% c(
+      "Cedar Point",
+      "Kings Island",
+      "Hersheypark"
+    ))
+} else {
+  parks_to_scrape <- parks
+}
+
+# STEP 5: Create empty storage tables
+all_wait_times <- tibble(
+  park_id = integer(),
+  park_name = character(),
+  country = character(),
+  ride = character(),
+  avg_wait_mins = double()
+)
+
+failed_parks <- tibble(
+  park_id = integer(),
+  park_name = character(),
+  reason = character()
+)
+
+# STEP 6: Loop through the parks
+for (i in seq_len(nrow(parks_to_scrape))) {
+  
+  park_id <- parks_to_scrape$park_id[i]
+  park_name <- parks_to_scrape$park_name[i]
+  country <- parks_to_scrape$country[i]
+  
+  url <- paste0(
+    "https://queue-times.com/parks/",
+    park_id,
+    "/stats"
+  )
+  
+  cat("Scraping:", park_name, "\n")
+  
+  tryCatch({
+    
+    # YOUR ORIGINAL SCRAPING CODE
+    page <- read_html(url)
+    
+    all_tables <- page |>
+      html_elements("table") |>
+      html_table()
+    
+    matching_tables <- all_tables |>
+      keep(~ any(str_detect(
+        names(.x),
+        regex("overall average", ignore_case = TRUE)
+      )))
+    
+    # Stop if the expected table is missing
+    if (length(matching_tables) == 0) {
+      stop("Average wait time table not found")
+    }
+    
+    avg_wait <- matching_tables |>
+      pluck(1) |>
+      clean_names() |>
+      select(1:2) |>
+      rename(
+        ride = 1,
+        avg_wait_mins = 2
+      ) |>
+      mutate(
+        ride = str_squish(ride),
+        avg_wait_mins = parse_number(
+          as.character(avg_wait_mins)
+        ),
+        park_id = park_id,
+        park_name = park_name,
+        country = country
+      ) |>
+      relocate(
+        park_id,
+        park_name,
+        country
+      )
+    
+    # Combine with previously scraped parks
+    all_wait_times <- bind_rows(
+      all_wait_times,
+      avg_wait
+    )
+    
+    cat("Success:", nrow(avg_wait), "rides\n")
+    
+  }, error = function(e) {
+    
+    cat("FAILED:", park_name, "\n")
+    
+    failed_parks <- bind_rows(
+      failed_parks,
+      tibble(
+        park_id = park_id,
+        park_name = park_name,
+        reason = conditionMessage(e)
+      )
+    )
+    
+  })
+  
+  # Wait 2 seconds before next request
+  Sys.sleep(2)
+}
+
+# STEP 7: Check results
+View(all_wait_times)
+
+# Number of parks successfully scraped
+n_distinct(all_wait_times$park_id)
+
+# Total ride records
+nrow(all_wait_times)
+
+# Number of failed parks
+nrow(failed_parks)
+
+# STEP 8: Export results
+write_csv(
+  all_wait_times,
+  "all_park_wait_times.csv"
+)
+
+write_csv(
+  failed_parks,
+  "failed_parks.csv"
+)
+
+write_csv(
+  parks,
+  "parks.csv"
+)
+
+# STEP 9: Find the saved files
+getwd()
+
+```
+
+

@@ -1,0 +1,1300 @@
+park_id,park_name,country,ride,avg_wait_mins
+57,California's Great America,United States,RailBlazer,44
+57,California's Great America,United States,Rip Roaring Rapids,39
+57,California's Great America,United States,Tiki Twirl,37
+57,California's Great America,United States,Psycho Mouse,34
+57,California's Great America,United States,Gold Striker,32
+57,California's Great America,United States,The Grizzly,32
+57,California's Great America,United States,Flight Deck,25
+57,California's Great America,United States,Barney Oldfield's Redwood Rally,22
+57,California's Great America,United States,Delirium,21
+57,California's Great America,United States,Demon,20
+57,California's Great America,United States,Lucy's Crabbie Cabbies,18
+57,California's Great America,United States,Rue le Dodge,17
+57,California's Great America,United States,Drop Tower,16
+57,California's Great America,United States,Flying Eagles,15
+57,California's Great America,United States,Patriot,14
+57,California's Great America,United States,Mass Effect: New Earth,12
+57,California's Great America,United States,Whitewater Falls,11
+57,California's Great America,United States,Flying Ace,8
+59,Carowinds,United States,The Conjuring: Beyond Fear,42
+59,Carowinds,United States,JASON: Blood Reign,28
+59,Carowinds,United States,Copperhead Strike,24
+59,Carowinds,United States,The Toothfairy,24
+59,Carowinds,United States,Fury 325,22
+59,Carowinds,United States,Slaughterhouse,22
+59,Carowinds,United States,Snoopy’s Racing Railway,21
+59,Carowinds,United States,Ricochet,20
+59,Carowinds,United States,Silver Scream Studios: Director's Cut,20
+59,Carowinds,United States,Carolina Goldrusher,18
+59,Carowinds,United States,Kiddy Hawk,17
+59,Carowinds,United States,Afterburn,16
+59,Carowinds,United States,Paranormal Inc.,16
+59,Carowinds,United States,The Flying Cobras,16
+59,Carowinds,United States,Thunder Striker,15
+59,Carowinds,United States,Boo Blasters on Boo Hill,14
+59,Carowinds,United States,Flying Ace Balloon Race,14
+59,Carowinds,United States,Gear Spin,14
+59,Carowinds,United States,Vortex,14
+59,Carowinds,United States,Hurler,13
+59,Carowinds,United States,Ripcord,13
+59,Carowinds,United States,Electro-Spin,12
+59,Carowinds,United States,Rock 'N' Roller,12
+59,Carowinds,United States,Woodstock Express,12
+59,Carowinds,United States,Carolina Skytower,11
+59,Carowinds,United States,Do-Si-Do,11
+59,Carowinds,United States,Hover & Dodge,11
+59,Carowinds,United States,Kaleidoscope,11
+59,Carowinds,United States,Pig Pen's Mud Buggies,11
+59,Carowinds,United States,Wind Star,10
+59,Carowinds,United States,WindSeeker,10
+59,Carowinds,United States,Carolina Cyclone,9
+59,Carowinds,United States,Mountain Gliders,9
+59,Carowinds,United States,Slingshot,9
+59,Carowinds,United States,Air Racers,8
+59,Carowinds,United States,Charlie Brown’s River Raft Blast,8
+59,Carowinds,United States,PEANUTS™ Trailblazers,8
+59,Carowinds,United States,The Airwalker,8
+59,Carowinds,United States,Zephyr,8
+59,Carowinds,United States,Wilderness Run,7
+59,Carowinds,United States,Camp Bus,6
+59,Carowinds,United States,PEANUTS™ Pirates,6
+59,Carowinds,United States,Snoopy vs. Red Baron,6
+59,Carowinds,United States,Charlie Brown's Wind-up,5
+59,Carowinds,United States,Gyro Force,5
+59,Carowinds,United States,Kite Eating Tree,5
+59,Carowinds,United States,The Grand Carousel,5
+59,Carowinds,United States,Woodstock Whirlybirds,5
+50,Cedar Point,United States,Steel Vengeance,67
+50,Cedar Point,United States,Siren's Curse,66
+50,Cedar Point,United States,Maverick,58
+50,Cedar Point,United States,CornStalkers 2.0: Revenge of the Pumpkin Heads,55
+50,Cedar Point,United States,Top Thrill 2,50
+50,Cedar Point,United States,Valravn,50
+50,Cedar Point,United States,Diablo: The Infernal Path,48
+50,Cedar Point,United States,Fearground Freak Show,46
+50,Cedar Point,United States,Millennium Force,43
+50,Cedar Point,United States,The Haunting of Eerie Estate,39
+50,Cedar Point,United States,Raptor,35
+50,Cedar Point,United States,Slaughter House,33
+50,Cedar Point,United States,The Conjuring: Beyond Fear,33
+50,Cedar Point,United States,Midnight,29
+50,Cedar Point,United States,Wild Mouse,29
+50,Cedar Point,United States,GateKeeper,25
+50,Cedar Point,United States,Iron Dragon,22
+50,Cedar Point,United States,Blue Streak,17
+50,Cedar Point,United States,Gemini,17
+50,Cedar Point,United States,Rougarou,17
+50,Cedar Point,United States,Magnum XL-200,16
+50,Cedar Point,United States,Pipe Scream,16
+50,Cedar Point,United States,Cedar Creek Mine Ride,15
+50,Cedar Point,United States,Corkscrew,14
+50,Cedar Point,United States,maXair,12
+50,Cedar Point,United States,Power Tower,12
+50,Cedar Point,United States,Skyhawk,11
+50,Cedar Point,United States,Power Tower Shot,7
+50,Cedar Point,United States,WindSeeker,7
+69,Dorney Park,United States,Wild Mouse,32
+69,Dorney Park,United States,Blair Witch: No Signal,30
+69,Dorney Park,United States,Thunder Canyon,28
+69,Dorney Park,United States,Ghost in the Machine,26
+69,Dorney Park,United States,Roadside Stop N' Chop,25
+69,Dorney Park,United States,Thunder Creek Mountain,19
+69,Dorney Park,United States,Talon,17
+69,Dorney Park,United States,Trick or Treat,17
+69,Dorney Park,United States,Blood on the Bayou,16
+69,Dorney Park,United States,Hydra,16
+69,Dorney Park,United States,Necropolis,15
+69,Dorney Park,United States,White Water Landing,15
+69,Dorney Park,United States,Iron Menace,14
+69,Dorney Park,United States,Steel Force,12
+69,Dorney Park,United States,Thunderhawk,11
+69,Dorney Park,United States,Dominator,9
+69,Dorney Park,United States,Dominator Red,9
+69,Dorney Park,United States,Possessed,9
+69,Dorney Park,United States,Snoopy's Rocket Express,9
+62,Kings Dominion,United States,Flight of Fear,27
+62,Kings Dominion,United States,Rapterra,26
+62,Kings Dominion,United States,Twisted Timbers,22
+62,Kings Dominion,United States,Tumbili,18
+62,Kings Dominion,United States,Dominator,17
+62,Kings Dominion,United States,Reptilian,17
+62,Kings Dominion,United States,Backlot Stunt Coaster,15
+62,Kings Dominion,United States,Blue Ridge Tollway,15
+62,Kings Dominion,United States,Apple Zapple,14
+62,Kings Dominion,United States,Woodstock Express,14
+62,Kings Dominion,United States,Shenandoah Lumber Co.,13
+62,Kings Dominion,United States,Delirium,12
+62,Kings Dominion,United States,Dodgem,12
+62,Kings Dominion,United States,Flying Eagles,11
+62,Kings Dominion,United States,Pantherian,11
+62,Kings Dominion,United States,White Water Canyon,11
+62,Kings Dominion,United States,Boo Blasters on Boo Hill,9
+62,Kings Dominion,United States,WindSeeker,9
+62,Kings Dominion,United States,Grizzly,8
+62,Kings Dominion,United States,Drop Tower,7
+62,Kings Dominion,United States,Racer 75,7
+62,Kings Dominion,United States,Bad Apple,6
+62,Kings Dominion,United States,Racer 75 - South,5
+62,Kings Dominion,United States,Wave Swinger,5
+62,Kings Dominion,United States,Carousel,4
+60,Kings Island,United States,Flight of Fear,48
+60,Kings Island,United States,JASON: Blood Reign,40
+60,Kings Island,United States,Alien Abyss presented by SNICKERS®,39
+60,Kings Island,United States,The Beast,33
+60,Kings Island,United States,Mystic Timbers,32
+60,Kings Island,United States,Diamondback,31
+60,Kings Island,United States,Orion®,31
+60,Kings Island,United States,Metal Massacre,28
+60,Kings Island,United States,The Conjuring: Beyond Fear,28
+60,Kings Island,United States,Charlie Brown's Rushing River Log Ride,27
+60,Kings Island,United States,Woodstock Whirlybirds,27
+60,Kings Island,United States,Slaughter House presented by SKITTLES®,26
+60,Kings Island,United States,Banshee,24
+60,Kings Island,United States,Order of the Dragon,24
+60,Kings Island,United States,Queen City Stunt Coaster,24
+60,Kings Island,United States,Phantom Theater: Opening Nightmare,23
+60,Kings Island,United States,White Water Canyon,23
+60,Kings Island,United States,Invertigo,22
+60,Kings Island,United States,Kings Mills Antique Autos,21
+60,Kings Island,United States,Surf Dog,21
+60,Kings Island,United States,Drop Tower,18
+60,Kings Island,United States,K.I. & Miami Valley Railroad,18
+60,Kings Island,United States,Woodstock's Air Rail,18
+60,Kings Island,United States,Delirium,16
+60,Kings Island,United States,Killmart presented by M&M’S®,16
+60,Kings Island,United States,Snoopy's Soap Box Racers,16
+60,Kings Island,United States,The Bat,16
+60,Kings Island,United States,Adventure Express,15
+60,Kings Island,United States,Sol Spin,15
+60,Kings Island,United States,Woodstock Express,15
+60,Kings Island,United States,Franklin's Flyers,14
+60,Kings Island,United States,The Racer (Blue),12
+60,Kings Island,United States,The Racer (Red),12
+61,Knott's Berry Farm,United States,GhostRider,73
+61,Knott's Berry Farm,United States,Xcelerator The Ride®,39
+61,Knott's Berry Farm,United States,HangTime,35
+61,Knott's Berry Farm,United States,Room 13,34
+61,Knott's Berry Farm,United States,Sierra Sidewinder,34
+61,Knott's Berry Farm,United States,Timber Mountain Log Ride,34
+61,Knott's Berry Farm,United States,Jaguar!,30
+61,Knott's Berry Farm,United States,Pony Express,30
+61,Knott's Berry Farm,United States,Origins: The Curse of Calico,29
+61,Knott's Berry Farm,United States,Cinema Slasher,28
+61,Knott's Berry Farm,United States,Knott's Bear-y Tales: Return to the Fair,28
+61,Knott's Berry Farm,United States,Coast Rider,27
+61,Knott's Berry Farm,United States,Calico River Rapids,26
+61,Knott's Berry Farm,United States,Silver Bullet,25
+61,Knott's Berry Farm,United States,Chilling Chambers,22
+61,Knott's Berry Farm,United States,Calico Mine Ride,20
+61,Knott's Berry Farm,United States,La Revolucion,17
+61,Knott's Berry Farm,United States,Supreme Scream,15
+61,Knott's Berry Farm,United States,MonteZOOMa: The Forbidden Fortress,14
+61,Knott's Berry Farm,United States,Sol Spin,14
+61,Knott's Berry Farm,United States,Los Voladores,10
+70,Michigan's Adventure,United States,Mad Mouse,38
+70,Michigan's Adventure,United States,Wolverine Wildcat,27
+70,Michigan's Adventure,United States,Shivering Timbers,26
+70,Michigan's Adventure,United States,Logger’s Run,25
+70,Michigan's Adventure,United States,Grand Rapids,24
+70,Michigan's Adventure,United States,Thunderhawk,22
+68,Valleyfair,United States,[Archived] Mad Mouse,26
+68,Valleyfair,United States,[Archived] Zombie High,25
+68,Valleyfair,United States,[Archived] North Star,24
+68,Valleyfair,United States,[Archived] Power Tower - Turbo Drop,22
+68,Valleyfair,United States,[Archived] Dark Harvest,21
+68,Valleyfair,United States,[Archived] Renegade,20
+68,Valleyfair,United States,[Archived] Thunder Canyon,20
+68,Valleyfair,United States,[Archived] High Roller,19
+68,Valleyfair,United States,[Archived] Mr. Cleaver's Bloodshed,17
+68,Valleyfair,United States,[Archived] Power Tower,17
+68,Valleyfair,United States,[Archived] Steel Venom,17
+68,Valleyfair,United States,[Archived] Wild Thing,17
+68,Valleyfair,United States,[Archived] Xtreme Swing,17
+68,Valleyfair,United States,[Archived] Corkscrew,14
+68,Valleyfair,United States,[Archived] Undertakers,14
+68,Valleyfair,United States,[Archived] The Chateau,12
+68,Valleyfair,United States,[Archived] Berserkers Unleashed,10
+68,Valleyfair,United States,[Archived] Delirious,9
+68,Valleyfair,United States,[Archived] Excalibur,6
+63,Worlds of Fun,United States,Spinning Dragons,40
+63,Worlds of Fun,United States,Fury of the Nile,35
+63,Worlds of Fun,United States,Zambezi Zinger,35
+63,Worlds of Fun,United States,Viking Voyager,31
+63,Worlds of Fun,United States,Patriot,28
+63,Worlds of Fun,United States,Mamba®,23
+63,Worlds of Fun,United States,Timber Wolf,23
+63,Worlds of Fun,United States,Detonator,19
+63,Worlds of Fun,United States,Le TaxiTour,17
+63,Worlds of Fun,United States,Prowler,16
+63,Worlds of Fun,United States,Boomerang,15
+63,Worlds of Fun,United States,Mustang Runner,10
+63,Worlds of Fun,United States,SteelHawk,10
+55,Dollywood,United States,NightFlight Expedition,44
+55,Dollywood,United States,Dollywood Express Train Depot,38
+55,Dollywood,United States,FireChaser Express ®,30
+55,Dollywood,United States,Lightning Rod ®,30
+55,Dollywood,United States,Big Bear Mountain,25
+55,Dollywood,United States,Dragonflier,24
+55,Dollywood,United States,Smoky Mountain River Rampage,23
+55,Dollywood,United States,Mystery Mine ®,22
+55,Dollywood,United States,Tennessee Tornado,18
+55,Dollywood,United States,Thunderhead ®,17
+55,Dollywood,United States,Blazing Fury,15
+55,Dollywood,United States,Rockin' Roadway,15
+55,Dollywood,United States,Wild Eagle ®,15
+55,Dollywood,United States,Black Bear Trail,14
+55,Dollywood,United States,Daredevil Falls,13
+55,Dollywood,United States,Firehouse Fun Yard,12
+55,Dollywood,United States,Hidden Hollow,12
+55,Dollywood,United States,Sky Rider,12
+55,Dollywood,United States,The Mad Mockingbird,12
+55,Dollywood,United States,Shooting Star,11
+55,Dollywood,United States,The Scrambler,11
+55,Dollywood,United States,Treetop Tower,11
+55,Dollywood,United States,Whistle Punk Chaser®,11
+55,Dollywood,United States,Barnstormer,10
+55,Dollywood,United States,The Amazing Flying Elephants,10
+55,Dollywood,United States,Demolition Derby,9
+55,Dollywood,United States,Drop Line®,8
+55,Dollywood,United States,Great Tree Swing,8
+55,Dollywood,United States,Lemon Twist,8
+55,Dollywood,United States,Lumberjack Lifts,8
+55,Dollywood,United States,Piggy Parade,8
+55,Dollywood,United States,The Waltzing Swinger,8
+55,Dollywood,United States,Frogs & Fireflies,7
+55,Dollywood,United States,Busy Bees,6
+55,Dollywood,United States,Lucky Ducky,6
+55,Dollywood,United States,Village Carousel,6
+10,Silver Dollar City,United States,Mystic River Falls,46
+10,Silver Dollar City,United States,Fire In The Hole,42
+10,Silver Dollar City,United States,PowderKeg,30
+10,Silver Dollar City,United States,Time Traveler,28
+10,Silver Dollar City,United States,Hugo & Mary's Carousel,23
+10,Silver Dollar City,United States,Fireman's Flyers,19
+10,Silver Dollar City,United States,Grand Exposition Coaster,18
+10,Silver Dollar City,United States,The Giant Barn Swing,18
+10,Silver Dollar City,United States,American Plunge,15
+10,Silver Dollar City,United States,Electro Spin,15
+10,Silver Dollar City,United States,Fire Spotter,15
+10,Silver Dollar City,United States,FireFall,15
+10,Silver Dollar City,United States,Magnificent Wave Carousel,15
+10,Silver Dollar City,United States,Thunderation,15
+10,Silver Dollar City,United States,Tom & Huck's RiverBlast,15
+10,Silver Dollar City,United States,Outlaw Run,14
+10,Silver Dollar City,United States,Racing Regatta,14
+10,Silver Dollar City,United States,Elephant March,13
+10,Silver Dollar City,United States,Lucky's Dizzy Dogs,12
+10,Silver Dollar City,United States,Mighty Galleon,12
+10,Silver Dollar City,United States,Royal Tea Party,12
+10,Silver Dollar City,United States,The Flooded Mine,12
+10,Silver Dollar City,United States,WildFire,12
+10,Silver Dollar City,United States,Ladybugs,11
+10,Silver Dollar City,United States,Wings of Wonder,11
+10,Silver Dollar City,United States,Fire Wagon Frenzy,10
+10,Silver Dollar City,United States,Happy Frogs,10
+10,Silver Dollar City,United States,Up The Ladder,9
+279,Legoland California,United States,Galacticoaster,38
+279,Legoland California,United States,Coastersaurus,36
+279,Legoland California,United States,DUPLO® Little Dino Trail,33
+279,Legoland California,United States,Emmet's Flying Adventure Ride,29
+279,Legoland California,United States,LEGO® NINJAGO® The Ride,26
+279,Legoland California,United States,Unikitty's Disco Drop,24
+279,Legoland California,United States,LEGO® Technic Coaster,23
+279,Legoland California,United States,Dragon Coaster,19
+279,Legoland California,United States,Skipper School,18
+279,Legoland California,United States,Coast Cruise,17
+279,Legoland California,United States,Lost Kingdom Adventure,17
+279,Legoland California,United States,Explorer River Quest,15
+279,Legoland California,United States,Royal Joust,14
+279,Legoland California,United States,LEGO® City: Deep Sea Adventure,13
+279,Legoland California,United States,Captain Cranky's Challenge,12
+279,Legoland California,United States,DUPLO Launch & Land,11
+279,Legoland California,United States,G-Force Test Facility,11
+279,Legoland California,United States,Cargo Ace,10
+279,Legoland California,United States,Junior Driving School,10
+279,Legoland California,United States,Driving School,9
+279,Legoland California,United States,Pirate Reef,8
+279,Legoland California,United States,Queen Watevra’s Carousel,8
+279,Legoland California,United States,BIONICLE® Blaster,7
+279,Legoland California,United States,Dune Raiders,7
+279,Legoland California,United States,Kid Power Tower,7
+279,Legoland California,United States,LEGOLAND® Express,7
+279,Legoland California,United States,Beetle Bounce,6
+280,Legoland Florida,United States,Coast Guard Academy,18
+280,Legoland Florida,United States,The Great LEGO® Race,15
+280,Legoland Florida,United States,AQUAZONE® Wave Racers,14
+280,Legoland Florida,United States,Safari Trek,14
+280,Legoland Florida,United States,THE LEGO® MOVIE™ Masters of Flight,14
+280,Legoland Florida,United States,Coastersaurus,13
+280,Legoland Florida,United States,LEGO® NINJAGO® The Ride,12
+280,Legoland Florida,United States,Technicycle,12
+280,Legoland Florida,United States,Galacticoaster,11
+280,Legoland Florida,United States,The Dragon,11
+280,Legoland Florida,United States,Driving School,10
+280,Legoland Florida,United States,Unikitty’s Disco Drop,10
+280,Legoland Florida,United States,Battle of Bricksburg,9
+280,Legoland Florida,United States,DUPLO® Train,9
+280,Legoland Florida,United States,Beetle Bounce,8
+280,Legoland Florida,United States,Lost Kingdom Adventure,8
+280,Legoland Florida,United States,The Grand Carousel,8
+280,Legoland Florida,United States,DUPLO® Tractor,7
+280,Legoland Florida,United States,Jr. Driving School,7
+280,Legoland Florida,United States,Rescue Academy,7
+280,Legoland Florida,United States,Royal Joust,7
+280,Legoland Florida,United States,Kid Power Towers,6
+280,Legoland Florida,United States,Merlin's Challenge,6
+280,Legoland Florida,United States,Mia's Riding Adventure,6
+299,Legoland New York,United States,The Dragon's Apprentice,22
+299,Legoland New York,United States,Fire Academy,19
+299,Legoland New York,United States,Rogue Riders,18
+299,Legoland New York,United States,Merlin's Flying Machines,17
+299,Legoland New York,United States,Anchors Away!,16
+299,Legoland New York,United States,LEGO® NINJAGO® The Ride,14
+299,Legoland New York,United States,The Dragon,14
+299,Legoland New York,United States,Tower Climb Tournament,14
+299,Legoland New York,United States,Junior Driving School,13
+299,Legoland New York,United States,Minifigure Skyflyer - Brick Street Station,12
+299,Legoland New York,United States,Splash Battle,12
+299,Legoland New York,United States,DUPLO® Express,11
+299,Legoland New York,United States,Brick Party,10
+299,Legoland New York,United States,LEGO® Factory Adventure Ride,10
+299,Legoland New York,United States,Minifigure Skyflyer - LEGO® Pirates Station,10
+299,Legoland New York,United States,Driving School,9
+299,Legoland New York,United States,Jay's Gravity Force Trainer,9
+299,Legoland New York,United States,Ocean Explorer,9
+316,Peppa Pig Theme Park Florida,United States,Daddy Pig's Roller Coaster,9
+316,Peppa Pig Theme Park Florida,United States,Grampy Rabbit's Dinosaur Adventure,7
+316,Peppa Pig Theme Park Florida,United States,Mr. Bull's High Striker,7
+316,Peppa Pig Theme Park Florida,United States,Grandad Dog’s Pirate Boat Ride,6
+316,Peppa Pig Theme Park Florida,United States,Peppa Pig’s Balloon Ride,6
+15,Hersheypark,United States,Reese's Cupfusion,57
+15,Hersheypark,United States,Holly Jolly Laff Trakk - Featuring Christmas Candylane Overlay,47
+15,Hersheypark,United States,Candymonium,44
+15,Hersheypark,United States,Fahrenheit,40
+15,Hersheypark,United States,Great Bear,35
+15,Hersheypark,United States,Comet - Dark Coaster,34
+15,Hersheypark,United States,Storm Runner,32
+15,Hersheypark,United States,Twizzlers Twisted Gravity,30
+15,Hersheypark,United States,Skyrush,27
+15,Hersheypark,United States,Jolly Rancher Remix - Featuring Christmas Candylane Overlay,26
+15,Hersheypark,United States,Monorail,22
+15,Hersheypark,United States,Wildcat's Revenge,22
+15,Hersheypark,United States,Mix'd Flavored By Jolly Rancher,19
+15,Hersheypark,United States,Fender Bender,18
+15,Hersheypark,United States,Cocoa Cruiser,17
+15,Hersheypark,United States,Twin Turnpike - Classic Cars presented by Sunoco - Featuring Christmas Candylane Overlay,16
+15,Hersheypark,United States,Pirate,15
+15,Hersheypark,United States,Starship America,15
+15,Hersheypark,United States,Ferris Wheel,14
+15,Hersheypark,United States,Lightning Racer- Dark Coaster,14
+15,Hersheypark,United States,Scrambler,14
+15,Hersheypark,United States,The Claw,14
+15,Hersheypark,United States,Trailblazer - Closes at 5PM,14
+15,Hersheypark,United States,Wild Mouse,14
+15,Hersheypark,United States,The Howler,13
+15,Hersheypark,United States,Tilt-A-Whirl,13
+15,Hersheypark,United States,Twin Turnpike - Speedway presented by Sunoco - Featuring Christmas Candylane Overlay,13
+15,Hersheypark,United States,Carrousel,11
+15,Hersheypark,United States,Hershey Triple Tower - Hershey's Tower,11
+15,Hersheypark,United States,Liberty Flyers,11
+15,Hersheypark,United States,Dry Gulch Railroad - Featuring Christmas Candylane Overlay,10
+15,Hersheypark,United States,Kissing Tower,10
+15,Hersheypark,United States,Wave Swinger,9
+15,Hersheypark,United States,Balloon Flite,7
+15,Hersheypark,United States,Music Express,7
+15,Hersheypark,United States,Convoy,6
+15,Hersheypark,United States,Frog Hopper,6
+15,Hersheypark,United States,Helicopters presented by Penn State Health,6
+15,Hersheypark,United States,Mini Himalaya,6
+15,Hersheypark,United States,Mini Pirate,6
+15,Hersheypark,United States,Minty Bees,6
+15,Hersheypark,United States,Misfit Bug,6
+15,Hersheypark,United States,Space Age,6
+15,Hersheypark,United States,Sweet Swing,6
+15,Hersheypark,United States,Swing Thing,6
+15,Hersheypark,United States,Tea Cups,6
+15,Hersheypark,United States,Traffic Jam,6
+15,Hersheypark,United States,Dizzy Drums,5
+15,Hersheypark,United States,Granny Bugs,5
+15,Hersheypark,United States,Livery Stables,5
+15,Hersheypark,United States,Mini Scrambler,5
+15,Hersheypark,United States,Pony Parade,5
+15,Hersheypark,United States,Red Baron,5
+15,Hersheypark,United States,Tiny Tracks,5
+314,Knoebels,United States,Flying Turns,26
+314,Knoebels,United States,Impulse,17
+314,Knoebels,United States,Motor Boats,16
+314,Knoebels,United States,Phoenix,13
+314,Knoebels,United States,Bumper Cars,12
+314,Knoebels,United States,Giant Flume,11
+314,Knoebels,United States,Kozmo's Kurves,11
+314,Knoebels,United States,Pioneer Train,11
+314,Knoebels,United States,Twister,11
+314,Knoebels,United States,Antique Cars,10
+314,Knoebels,United States,Black Diamond,10
+314,Knoebels,United States,Giant Wheel,10
+314,Knoebels,United States,Looper,10
+314,Knoebels,United States,Flyer,9
+314,Knoebels,United States,Galleon,9
+314,Knoebels,United States,Grand Carousel,9
+314,Knoebels,United States,Haunted Mansion,9
+314,Knoebels,United States,Ole Smokey,9
+314,Knoebels,United States,Power Surge,9
+314,Knoebels,United States,Tilt-A-Whirl,9
+314,Knoebels,United States,Merry Mixer,8
+314,Knoebels,United States,Paratrooper,8
+314,Knoebels,United States,Satellite,8
+314,Knoebels,United States,Whipper,8
+314,Knoebels,United States,Cosmotron,7
+314,Knoebels,United States,Downdraft,7
+314,Knoebels,United States,Fandango,7
+314,Knoebels,United States,Italian Trapeze,7
+314,Knoebels,United States,Panther Cars,7
+314,Knoebels,United States,Roto Jets,7
+314,Knoebels,United States,Sklooosh,7
+314,Knoebels,United States,StratosFear,7
+314,Knoebels,United States,Tea Cups,7
+314,Knoebels,United States,Tornado,7
+314,Knoebels,United States,Balloon Race,6
+314,Knoebels,United States,Crazy Sub,6
+314,Knoebels,United States,Flying Tigers,6
+314,Knoebels,United States,Hand Cars,6
+314,Knoebels,United States,Helicopters,6
+314,Knoebels,United States,Kiddie Firetrucks,6
+314,Knoebels,United States,Kiddie Wheel,6
+314,Knoebels,United States,Kiddie Whip,6
+314,Knoebels,United States,Pete's Fleet,6
+314,Knoebels,United States,Pony Carts,6
+314,Knoebels,United States,Ribbit,6
+314,Knoebels,United States,Rock-O-Plane,6
+314,Knoebels,United States,S&G Carousel,6
+314,Knoebels,United States,Scenic Skyway,6
+314,Knoebels,United States,Tumbling Timbers,6
+314,Knoebels,United States,Umbrella Ride,6
+314,Knoebels,United States,Goin' Buggy,5
+314,Knoebels,United States,Jet Skyfighter,5
+314,Knoebels,United States,Kiddie Boats,5
+314,Knoebels,United States,Kiddie Bumper Cars,5
+314,Knoebels,United States,Kiddie Himalaya,5
+314,Knoebels,United States,Paradrop,5
+314,Knoebels,United States,Red Baron,5
+314,Knoebels,United States,Spanish Bambini,5
+324,Adventureland Resort,United States,Monster,26
+324,Adventureland Resort,United States,The Underground,22
+324,Adventureland Resort,United States,Flying Viking,18
+324,Adventureland Resort,United States,Phoenix,18
+324,Adventureland Resort,United States,Space Shot,15
+324,Adventureland Resort,United States,Dragon Slayer,11
+324,Adventureland Resort,United States,Spell Keeper,10
+324,Adventureland Resort,United States,Storm Chaser,8
+312,Kennywood,United States,Exterminator,39
+312,Kennywood,United States,Raging Rapids,31
+312,Kennywood,United States,Steel Curtain,31
+312,Kennywood,United States,Black Widow,23
+312,Kennywood,United States,Jack Rabbit,21
+312,Kennywood,United States,Phantom's Revenge,21
+312,Kennywood,United States,Old Mill,18
+312,Kennywood,United States,Racer,18
+312,Kennywood,United States,Ghostwood Estate: Open House,17
+312,Kennywood,United States,Sky Rocket,17
+312,Kennywood,United States,Gingerbread Express,14
+312,Kennywood,United States,Spinvasion,12
+312,Kennywood,United States,Thunderbolt,12
+312,Kennywood,United States,Turtle,12
+312,Kennywood,United States,Kangaroo,11
+312,Kennywood,United States,Noah’s Ark,11
+312,Kennywood,United States,Rudolph the Red-Nosed Reindeer Experience,10
+312,Kennywood,United States,Aero 360,8
+312,Kennywood,United States,SwingShot,8
+313,Lake Compounce,United States,Wildcat,26
+313,Lake Compounce,United States,Project Nightmare,24
+313,Lake Compounce,United States,Boulder Dash,23
+313,Lake Compounce,United States,Phobia Phear Coaster,11
+313,Lake Compounce,United States,Zoomerang,10
+94,Aquatica Orlando,United States,[Archived] Walhalla Wave,13
+94,Aquatica Orlando,United States,[Archived] KareKare Curl,12
+94,Aquatica Orlando,United States,[Archived] Riptide Race,12
+94,Aquatica Orlando,United States,[Archived] Ihu's Breakaway Falls,10
+94,Aquatica Orlando,United States,[Archived] Taumata Racer,10
+306,Aquatica San Antonio,United States,[Archived] Stingray Falls,21
+306,Aquatica San Antonio,United States,[Archived] Taumata Racer,9
+24,Busch Gardens Tampa,United States,Skyride (Egypt Station),57
+24,Busch Gardens Tampa,United States,Skyride (Jungala Station),40
+24,Busch Gardens Tampa,United States,Cheetah Hunt,37
+24,Busch Gardens Tampa,United States,Cobra's Curse,31
+24,Busch Gardens Tampa,United States,Iron Gwazi,29
+24,Busch Gardens Tampa,United States,Serengeti Express (Nairobi Station),29
+24,Busch Gardens Tampa,United States,Ubanga-Banga Bumper Cars,26
+24,Busch Gardens Tampa,United States,Congo River Rapids,21
+24,Busch Gardens Tampa,United States,Grand Caravan Carousel,18
+24,Busch Gardens Tampa,United States,SheiKra,17
+24,Busch Gardens Tampa,United States,Phoenix Rising,16
+24,Busch Gardens Tampa,United States,Tigris,16
+24,Busch Gardens Tampa,United States,Montu,14
+24,Busch Gardens Tampa,United States,Serengeti Flyer,14
+24,Busch Gardens Tampa,United States,Falcon's Fury,12
+24,Busch Gardens Tampa,United States,Holly Jolly™ Express,7
+24,Busch Gardens Tampa,United States,Air Grover,6
+24,Busch Gardens Tampa,United States,Big Bird's Whirly Birdie,5
+24,Busch Gardens Tampa,United States,Elmo's Safari Go-Round,5
+24,Busch Gardens Tampa,United States,Gwazi Gliders,5
+24,Busch Gardens Tampa,United States,Snuffy's Elephant Romp,5
+24,Busch Gardens Tampa,United States,The Count's Zambezi Rally,5
+24,Busch Gardens Tampa,United States,Zoe-Patra's Hippos of the Nile,5
+23,Busch Gardens Williamsburg,United States,Skyride (England Station),137
+23,Busch Gardens Williamsburg,United States,Skyride (France Station),137
+23,Busch Gardens Williamsburg,United States,Skyride (Germany Station),137
+23,Busch Gardens Williamsburg,United States,Le Catapult,72
+23,Busch Gardens Williamsburg,United States,The Big Bad Wolf: The Wolf’s Revenge,67
+23,Busch Gardens Williamsburg,United States,DarKoaster®,39
+23,Busch Gardens Williamsburg,United States,Pantheon,36
+23,Busch Gardens Williamsburg,United States,Verbolten: Forbidden Turn,21
+23,Busch Gardens Williamsburg,United States,Griffon,16
+23,Busch Gardens Williamsburg,United States,InvadR,14
+23,Busch Gardens Williamsburg,United States,Loch Ness Monster: The Legend Lives On,14
+23,Busch Gardens Williamsburg,United States,Alpengeist,12
+23,Busch Gardens Williamsburg,United States,Tempesto,12
+23,Busch Gardens Williamsburg,United States,Finnegan's Flyer,11
+23,Busch Gardens Williamsburg,United States,Apollo's Chariot,10
+23,Busch Gardens Williamsburg,United States,The Battering Ram,7
+21,Seaworld Orlando,United States,ALL NEW! - Expedition Odyssey Fire & Ice,36
+21,Seaworld Orlando,United States,Penguin Trek,33
+21,Seaworld Orlando,United States,Infinity Falls®,28
+21,Seaworld Orlando,United States,Pipeline: The Surf Coaster,26
+21,Seaworld Orlando,United States,Ice Breaker,22
+21,Seaworld Orlando,United States,Journey to Atlantis,21
+21,Seaworld Orlando,United States,Manta,18
+21,Seaworld Orlando,United States,Mako®,13
+21,Seaworld Orlando,United States,Sky Tower,13
+21,Seaworld Orlando,United States,Sunny Day Carousel,12
+21,Seaworld Orlando,United States,Kraken®,10
+21,Seaworld Orlando,United States,Abby's Flower Tower,9
+21,Seaworld Orlando,United States,Elmo's Choo Choo Train,9
+21,Seaworld Orlando,United States,Super Grover's Box Car Derby,9
+21,Seaworld Orlando,United States,Cookie Drop,8
+21,Seaworld Orlando,United States,Flamingo Paddle Boats,8
+21,Seaworld Orlando,United States,Slimey's Slider,8
+22,Seaworld San Antonio,United States,Rio Loco,27
+22,Seaworld San Antonio,United States,Spinning Reef,16
+22,Seaworld San Antonio,United States,Journey to Atlantis,15
+22,Seaworld San Antonio,United States,Wave Breaker,15
+22,Seaworld San Antonio,United States,Dolphin Dive,13
+22,Seaworld San Antonio,United States,Texas Stingray,10
+22,Seaworld San Antonio,United States,Tidal Surge,10
+22,Seaworld San Antonio,United States,Great White,8
+22,Seaworld San Antonio,United States,Steel Eel,7
+22,Seaworld San Antonio,United States,Riptide Rescue,6
+22,Seaworld San Antonio,United States,Sea Swinger,6
+20,Seaworld San Diego,United States,Shipwreck Rapids,23
+20,Seaworld San Diego,United States,Arctic Rescue,22
+20,Seaworld San Diego,United States,Journey to Atlantis,21
+20,Seaworld San Diego,United States,Manta,19
+20,Seaworld San Diego,United States,Electric Eel,16
+20,Seaworld San Diego,United States,Tentacle Twirl,14
+20,Seaworld San Diego,United States,Bayside Skyride,13
+20,Seaworld San Diego,United States,Emperor,12
+20,Seaworld San Diego,United States,SkyTower,10
+20,Seaworld San Diego,United States,Octarock,8
+20,Seaworld San Diego,United States,Rescue Riders,8
+20,Seaworld San Diego,United States,Rescue Rafter,7
+20,Seaworld San Diego,United States,Sea Dragon Drop,7
+20,Seaworld San Diego,United States,Tidepool Twist,6
+29,Sesame Place,United States,Captain Cookie's High C's Adventure,7
+29,Sesame Place,United States,Elmo's Cloud Chaser,7
+29,Sesame Place,United States,Flyin' Fish,6
+29,Sesame Place,United States,Monster Mix-Up,6
+29,Sesame Place,United States,Oscar's Rotten Rusty Rockets,6
+29,Sesame Place,United States,Sunny Day Carousel,6
+29,Sesame Place,United States,Vapor Trail Coaster,6
+29,Sesame Place,United States,123 Playground,5
+29,Sesame Place,United States,Big Bird's Tour Bus,5
+282,Frontier City,United States,Renegade Rapids,15
+282,Frontier City,United States,Silver Bullet,13
+282,Frontier City,United States,Gunslinger,12
+282,Frontier City,United States,Steel Lasso,12
+282,Frontier City,United States,Wildcat,12
+282,Frontier City,United States,Grand Centennial Ferris Wheel,11
+282,Frontier City,United States,Mystery River Log Flume,11
+282,Frontier City,United States,Diamondback,10
+282,Frontier City,United States,Rolling Thunder,10
+282,Frontier City,United States,Quick Draw,8
+282,Frontier City,United States,Sidewinder,8
+282,Frontier City,United States,Winged Warrior,8
+282,Frontier City,United States,Prairie Schooner,7
+282,Frontier City,United States,Tornado,7
+282,Frontier City,United States,Frankie's Mine Train,6
+282,Frontier City,United States,Rodeo Round Up,6
+282,Frontier City,United States,Tin Lizzy's,6
+282,Frontier City,United States,Billy's Frog Hopper,5
+282,Frontier City,United States,Bubba's Honey Swings,5
+282,Frontier City,United States,Casino,5
+282,Frontier City,United States,Grand Carousel,5
+282,Frontier City,United States,Rocky's Ranger Planes,5
+282,Frontier City,United States,Soaring Eagle,5
+282,Frontier City,United States,Tina's Tea Cup Twirl,5
+45,Great Escape,United States,[Archived] Alpine Bobsled,46
+45,Great Escape,United States,[Archived] Swan Boats,29
+45,Great Escape,United States,[Archived] Adirondack Outlaw,24
+45,Great Escape,United States,[Archived] Desperado Plunge,21
+45,Great Escape,United States,[Archived] The Bobcat,21
+45,Great Escape,United States,[Archived] Raging River,19
+45,Great Escape,United States,[Archived] Thunder Alley,19
+45,Great Escape,United States,[Archived] Blizzard,18
+45,Great Escape,United States,[Archived] Storytown Train,17
+45,Great Escape,United States,[Archived] Canyon Blaster,14
+45,Great Escape,United States,[Archived] Boomerang,13
+45,Great Escape,United States,[Archived] Screamin' Eagles,13
+45,Great Escape,United States,[Archived] Sky Ride,12
+45,Great Escape,United States,[Archived] Flashback,11
+45,Great Escape,United States,[Archived] Comet,10
+45,Great Escape,United States,[Archived] Extreme Supernova,10
+45,Great Escape,United States,[Archived] Greezed Lightnin',10
+45,Great Escape,United States,[Archived] Pandemonium,10
+45,Great Escape,United States,[Archived] Sasquatch,10
+45,Great Escape,United States,[Archived] Marshal's Stampede Indoor Bumper Cars,7
+45,Great Escape,United States,[Archived] Balloon Race,6
+45,Great Escape,United States,[Archived] Cannonball Express,6
+45,Great Escape,United States,[Archived] Condor,6
+45,Great Escape,United States,[Archived] Grand Carousel,6
+45,Great Escape,United States,[Archived] Flying Trapeze,5
+45,Great Escape,United States,[Archived] Frankie’s Mine Train,5
+45,Great Escape,United States,[Archived] Oakley’s Honey Swings,5
+45,Great Escape,United States,[Archived] Spruce’s Wilderness Bus Tours,5
+45,Great Escape,United States,[Archived] Hootie’s Treehouse,4
+45,Great Escape,United States,[Archived] Ranger Randy's Scenic Railway,4
+45,Great Escape,United States,[Archived] Sheldon's Speedway,4
+45,Great Escape,United States,[Archived] Steamin’ Demon,4
+45,Great Escape,United States,[Archived] Convoy,3
+36,Mid America Adventure,United States,CATWOMAN™ Whip,58
+36,Mid America Adventure,United States,Thunder River,28
+36,Mid America Adventure,United States,Tommy G. Robertson Railroad,28
+36,Mid America Adventure,United States,BATMAN™: The Ride,21
+36,Mid America Adventure,United States,Pandemonium,19
+36,Mid America Adventure,United States,The Boss,18
+36,Mid America Adventure,United States,Boomerang,15
+36,Mid America Adventure,United States,Rookie Racer,14
+36,Mid America Adventure,United States,Screamin’ Eagle,14
+36,Mid America Adventure,United States,American Thunder,13
+36,Mid America Adventure,United States,River King Mine Train,13
+36,Mid America Adventure,United States,Fireball,12
+36,Mid America Adventure,United States,Log Flume,12
+36,Mid America Adventure,United States,Ninja,11
+36,Mid America Adventure,United States,SUPERGIRL™ Sky Flyer,11
+36,Mid America Adventure,United States,Colossus,10
+36,Mid America Adventure,United States,SkyScreamer,10
+36,Mid America Adventure,United States,Spinsanity,10
+36,Mid America Adventure,United States,SHAZAM!™,9
+36,Mid America Adventure,United States,Grand Ole Carousel,7
+36,Mid America Adventure,United States,Bugs Bunny Fort Fun,6
+36,Mid America Adventure,United States,Bugs Bunny Ranger Pilots,6
+36,Mid America Adventure,United States,Daffy Duck Stars on Parade,6
+36,Mid America Adventure,United States,Elmer Fudd Weather Balloons,6
+36,Mid America Adventure,United States,Foghorn Leghorn National Park Railway,6
+36,Mid America Adventure,United States,Marvin the Martian Camp Invasion,6
+36,Mid America Adventure,United States,Yosemite Sam Tugboat Tailspin,6
+339,Schlitterbahn NB,United States,Master Blaster Uphill Water Coaster,86
+339,Schlitterbahn NB,United States,Wolfpack Raft Slide,67
+339,Schlitterbahn NB,United States,Hillside Tube Chute,56
+339,Schlitterbahn NB,United States,Dragon's Revenge,54
+339,Schlitterbahn NB,United States,Raging River Tube Chute,54
+339,Schlitterbahn NB,United States,Whitewater Tube Chute,50
+339,Schlitterbahn NB,United States,Congo River Expedition,47
+339,Schlitterbahn NB,United States,Cliffhanger Tube Chute,31
+339,Schlitterbahn NB,United States,Black Knight,30
+339,Schlitterbahn NB,United States,Bahnzai Pipeline,27
+339,Schlitterbahn NB,United States,The Falls,23
+339,Schlitterbahn NB,United States,Bow Wow Blaster,21
+339,Schlitterbahn NB,United States,Wasserbahn Racers,21
+339,Schlitterbahn NB,United States,Double Loop Body Slides,19
+339,Schlitterbahn NB,United States,Boogie Bahn Surfing Ride,15
+339,Schlitterbahn NB,United States,Soda Straw Body Slide,15
+339,Schlitterbahn NB,United States,Downhill Racer,12
+281,Six Flags Darien Lake,United States,Brain Drain,37
+281,Six Flags Darien Lake,United States,Wahoo Wave,37
+281,Six Flags Darien Lake,United States,Swirl City Slide Complex,32
+281,Six Flags Darien Lake,United States,Tornado,28
+281,Six Flags Darien Lake,United States,Ride of Steel,25
+281,Six Flags Darien Lake,United States,Viper,24
+281,Six Flags Darien Lake,United States,Mind Eraser,22
+281,Six Flags Darien Lake,United States,Predator,21
+281,Six Flags Darien Lake,United States,Sky Screamer,18
+281,Six Flags Darien Lake,United States,RipCurl Racer,17
+281,Six Flags Darien Lake,United States,Tantrum,17
+281,Six Flags Darien Lake,United States,Blast Off,16
+281,Six Flags Darien Lake,United States,Motocoaster,15
+281,Six Flags Darien Lake,United States,Moose on the Loose,13
+281,Six Flags Darien Lake,United States,Shipwreck Falls,13
+281,Six Flags Darien Lake,United States,Slingshot,12
+281,Six Flags Darien Lake,United States,Flotation Station,10
+281,Six Flags Darien Lake,United States,Pirate,10
+281,Six Flags Darien Lake,United States,Rolling Thunder,10
+281,Six Flags Darien Lake,United States,Scrambler,10
+281,Six Flags Darien Lake,United States,Bear Valley Bumper Buggies,9
+281,Six Flags Darien Lake,United States,Boomerang,9
+281,Six Flags Darien Lake,United States,Corn Popper,9
+281,Six Flags Darien Lake,United States,Grand Prix Speedway,9
+281,Six Flags Darien Lake,United States,Lasso,8
+281,Six Flags Darien Lake,United States,Silver Bullet,8
+281,Six Flags Darien Lake,United States,Sleighride,8
+281,Six Flags Darien Lake,United States,Haymaker,7
+281,Six Flags Darien Lake,United States,Tree Stump Turnpike,6
+281,Six Flags Darien Lake,United States,Beaver Dam Explorer,3
+281,Six Flags Darien Lake,United States,Critter Chase,2
+281,Six Flags Darien Lake,United States,Darien Lake Railway,2
+281,Six Flags Darien Lake,United States,Raccoon Rally,2
+33,Six Flags Discovery Kingdom,United States,THE JOKER,36
+33,Six Flags Discovery Kingdom,United States,Sidewinder Safari,33
+33,Six Flags Discovery Kingdom,United States,BATMAN: The Ride,28
+33,Six Flags Discovery Kingdom,United States,SUPERMAN Ultimate Flight,28
+33,Six Flags Discovery Kingdom,United States,WONDER WOMAN Lasso of Truth,25
+33,Six Flags Discovery Kingdom,United States,Monsoon Falls,22
+33,Six Flags Discovery Kingdom,United States,Medusa,21
+33,Six Flags Discovery Kingdom,United States,White Water Safari,20
+33,Six Flags Discovery Kingdom,United States,Kong,18
+33,Six Flags Discovery Kingdom,United States,Boomerang Coast-to-Coaster,15
+33,Six Flags Discovery Kingdom,United States,THE FLASH Vertical Velocity,15
+33,Six Flags Discovery Kingdom,United States,SkyScreamer,13
+33,Six Flags Discovery Kingdom,United States,Cobra,10
+33,Six Flags Discovery Kingdom,United States,Ark,7
+33,Six Flags Discovery Kingdom,United States,Boardwalk Bumper Buggies,7
+33,Six Flags Discovery Kingdom,United States,Scat-A-Bout,7
+33,Six Flags Discovery Kingdom,United States,Road Runner Express,6
+33,Six Flags Discovery Kingdom,United States,Thrilla Gorilla,6
+33,Six Flags Discovery Kingdom,United States,Monkey Business,5
+33,Six Flags Discovery Kingdom,United States,Wave Swinger,5
+33,Six Flags Discovery Kingdom,United States,Air Penguins,4
+33,Six Flags Discovery Kingdom,United States,Seaside Railway,3
+33,Six Flags Discovery Kingdom,United States,Acme Fun Factory,2
+39,Six Flags Fiesta Texas,United States,Iron Rattler,37
+39,Six Flags Fiesta Texas,United States,The Gully Washer,35
+39,Six Flags Fiesta Texas,United States,WONDER WOMAN™ Golden Lasso Coaster,35
+39,Six Flags Fiesta Texas,United States,JOKER™: Carnival of Chaos,34
+39,Six Flags Fiesta Texas,United States,Boomerang Coast To Coaster,27
+39,Six Flags Fiesta Texas,United States,Bugs' White Water Rapids,26
+39,Six Flags Fiesta Texas,United States,Poltergeist,23
+39,Six Flags Fiesta Texas,United States,Road Runner Express,23
+39,Six Flags Fiesta Texas,United States,CYBORG™: Cyber Revolution,22
+39,Six Flags Fiesta Texas,United States,Dare Devil Dive Flying Machines,22
+39,Six Flags Fiesta Texas,United States,SUPERMAN™ KRYPTON Coaster,22
+39,Six Flags Fiesta Texas,United States,Dr. Diabolical's Cliffhanger,20
+39,Six Flags Fiesta Texas,United States,SUPERGIRL™ Sky Flight,20
+39,Six Flags Fiesta Texas,United States,BATMAN™ The Ride,19
+39,Six Flags Fiesta Texas,United States,Pandemonium,18
+39,Six Flags Fiesta Texas,United States,Chupacabra,16
+39,Six Flags Fiesta Texas,United States,Pirates of the Deep Sea,15
+39,Six Flags Fiesta Texas,United States,Scream!,13
+39,Six Flags Fiesta Texas,United States,METROPOLIS™ Transit Authority,12
+39,Six Flags Fiesta Texas,United States,Crow’s Nest,8
+39,Six Flags Fiesta Texas,United States,Fireball,7
+39,Six Flags Fiesta Texas,United States,Hurricane Force 5,7
+39,Six Flags Fiesta Texas,United States,Spinsanity,5
+39,Six Flags Fiesta Texas,United States,Texas Tumble,5
+39,Six Flags Fiesta Texas,United States,Thunder Rapids Water Coaster,5
+39,Six Flags Fiesta Texas,United States,Tornado,5
+39,Six Flags Fiesta Texas,United States,Wave Runner,5
+39,Six Flags Fiesta Texas,United States,Bahama Blaster,4
+39,Six Flags Fiesta Texas,United States,Bamboo Chutes,4
+39,Six Flags Fiesta Texas,United States,Bermuda Triangle,4
+39,Six Flags Fiesta Texas,United States,Circuit Breaker Grand Prix - Electric Go-Karts,4
+39,Six Flags Fiesta Texas,United States,Foghorn Leghorn’s Barnyard Railway,4
+39,Six Flags Fiesta Texas,United States,Hustler,4
+39,Six Flags Fiesta Texas,United States,Kinderstein,4
+39,Six Flags Fiesta Texas,United States,Taz's Tornado,4
+39,Six Flags Fiesta Texas,United States,Texas Treehouse,4
+39,Six Flags Fiesta Texas,United States,Yosemite Sam Wacky Wagons,4
+39,Six Flags Fiesta Texas,United States,DC™ Super-Villains Swing,3
+39,Six Flags Fiesta Texas,United States,Lone Star Lagoon,3
+39,Six Flags Fiesta Texas,United States,Paradise Cove,3
+39,Six Flags Fiesta Texas,United States,Splashwater Springs,3
+39,Six Flags Fiesta Texas,United States,White Water Canyon,3
+39,Six Flags Fiesta Texas,United States,Fiesta Texas Railroad,2
+39,Six Flags Fiesta Texas,United States,Grand Carousel,2
+39,Six Flags Fiesta Texas,United States,Riptide Runner,2
+37,Six Flags Great Adventure,United States,The Conjuring Universe,59
+37,Six Flags Great Adventure,United States,Asylum,55
+37,Six Flags Great Adventure,United States,THE FLASH™: Vertical Velocity,50
+37,Six Flags Great Adventure,United States,Big Top Terror,46
+37,Six Flags Great Adventure,United States,Barrels O’ Fun,38
+37,Six Flags Great Adventure,United States,WONDER WOMAN™ Lasso of Truth,35
+37,Six Flags Great Adventure,United States,Army of the Dead,34
+37,Six Flags Great Adventure,United States,SUPERMAN™: Ultimate Flight,30
+37,Six Flags Great Adventure,United States,Safari Off-Road Adventure,29
+37,Six Flags Great Adventure,United States,Roaring Rapids,25
+37,Six Flags Great Adventure,United States,El Toro,23
+37,Six Flags Great Adventure,United States,Hypno Twister,23
+37,Six Flags Great Adventure,United States,Jersey Devil Coaster,23
+37,Six Flags Great Adventure,United States,Nitro,23
+37,Six Flags Great Adventure,United States,THE JOKER™,23
+37,Six Flags Great Adventure,United States,Saw Mill Log Flume,22
+37,Six Flags Great Adventure,United States,JUSTICE LEAGUE™: Battle for METROPOLIS,20
+37,Six Flags Great Adventure,United States,Medusa,19
+37,Six Flags Great Adventure,United States,SkyScreamer,19
+37,Six Flags Great Adventure,United States,BATMAN™ The Ride,18
+37,Six Flags Great Adventure,United States,Giant Wheel,16
+37,Six Flags Great Adventure,United States,Skull Mountain,15
+37,Six Flags Great Adventure,United States,Houdini’s Great Escape,14
+37,Six Flags Great Adventure,United States,THE DARK KNIGHT™ Coaster,14
+37,Six Flags Great Adventure,United States,HARLEY QUINN™ Crazy Train,11
+37,Six Flags Great Adventure,United States,Buccaneer,9
+37,Six Flags Great Adventure,United States,Runaway Train,9
+37,Six Flags Great Adventure,United States,Fender Benders,8
+37,Six Flags Great Adventure,United States,Lil' Devil Coaster,8
+37,Six Flags Great Adventure,United States,Slingshot,7
+37,Six Flags Great Adventure,United States,Carousel,6
+37,Six Flags Great Adventure,United States,Enchanted Teacups,6
+37,Six Flags Great Adventure,United States,Super Round Up,6
+37,Six Flags Great Adventure,United States,Air Jumbo,5
+37,Six Flags Great Adventure,United States,Jolly Roger,5
+37,Six Flags Great Adventure,United States,Tango,5
+37,Six Flags Great Adventure,United States,Air Safari,4
+38,Six Flags Great America,United States,Blair Witch: No Signal,57
+38,Six Flags Great America,United States,The Conjuring Universe,52
+38,Six Flags Great America,United States,Maxx Force,49
+38,Six Flags Great America,United States,SUPERMAN™: Ultimate Flight,46
+38,Six Flags Great America,United States,Wrath of Rakshasa,44
+38,Six Flags Great America,United States,Goliath,39
+38,Six Flags Great America,United States,Logger's Run,36
+38,Six Flags Great America,United States,Sky Striker,35
+38,Six Flags Great America,United States,Nightmares,34
+38,Six Flags Great America,United States,Raging Bull,34
+38,Six Flags Great America,United States,THE DARK KNIGHT™ Coaster,34
+38,Six Flags Great America,United States,AQUAMAN™ Splashdown,33
+38,Six Flags Great America,United States,X Flight,32
+38,Six Flags Great America,United States,JUSTICE LEAGUE™: Battle for METROPOLIS,31
+38,Six Flags Great America,United States,Roaring Rapids,30
+38,Six Flags Great America,United States,Whizzer,30
+38,Six Flags Great America,United States,THE JOKER™ Free-Fly Coaster,29
+38,Six Flags Great America,United States,BATMAN™: The Ride,27
+38,Six Flags Great America,United States,THE FLASH™: Vertical Velocity,25
+38,Six Flags Great America,United States,American Eagle,22
+38,Six Flags Great America,United States,Viper,21
+38,Six Flags Great America,United States,The Estate at Wretched Meadows,17
+38,Six Flags Great America,United States,American Eagle Red Side,16
+38,Six Flags Great America,United States,Giant Drop,16
+38,Six Flags Great America,United States,Demon,14
+38,Six Flags Great America,United States,SAW Legacy of Terror,11
+38,Six Flags Great America,United States,The Lobster,10
+38,Six Flags Great America,United States,Rue Le Dodge,8
+38,Six Flags Great America,United States,Chubasco,7
+44,Six Flags Hurricane Harbor New Jersey,United States,[Archived] Big Bambu and Reef Runner,32
+44,Six Flags Hurricane Harbor New Jersey,United States,[Archived] Tornado,29
+44,Six Flags Hurricane Harbor New Jersey,United States,[Archived] Taak It Eez Ee Creek,25
+44,Six Flags Hurricane Harbor New Jersey,United States,[Archived] Hurricane Mountain,22
+44,Six Flags Hurricane Harbor New Jersey,United States,"[Archived] Bada Bing, Bada Bang, Bada Boom!",19
+44,Six Flags Hurricane Harbor New Jersey,United States,"[Archived] Boreas, Eurus, Zephyrus and Nortus",18
+44,Six Flags Hurricane Harbor New Jersey,United States,[Archived] Big Wave Racer,16
+44,Six Flags Hurricane Harbor New Jersey,United States,"[Archived] Cannonball, Wahini and Jurahnimo Falls",12
+293,"Six Flags Hurricane Harbor, Concord",United States,Typhoon Slide Complex,58
+293,"Six Flags Hurricane Harbor, Concord",United States,Honolulu Halfpipe,30
+32,Six Flags Magic Mountain,United States,West Coast Racers,40
+32,Six Flags Magic Mountain,United States,Final Destination: Death's Playground,37
+32,Six Flags Magic Mountain,United States,Tatsu,37
+32,Six Flags Magic Mountain,United States,Full Throttle,36
+32,Six Flags Magic Mountain,United States,Roaring Rapids,36
+32,Six Flags Magic Mountain,United States,Twisted Colossus,35
+32,Six Flags Magic Mountain,United States,CraZanity,30
+32,Six Flags Magic Mountain,United States,Goliath,30
+32,Six Flags Magic Mountain,United States,WONDER WOMAN™ Flight of Courage,30
+32,Six Flags Magic Mountain,United States,Apocalypse,26
+32,Six Flags Magic Mountain,United States,Carnage presented by M&M'S®,22
+32,Six Flags Magic Mountain,United States,Jet Stream,22
+32,Six Flags Magic Mountain,United States,Ninja,21
+32,Six Flags Magic Mountain,United States,The Conjuring Universe,21
+32,Six Flags Magic Mountain,United States,Vault: 666 Unlocked,19
+32,Six Flags Magic Mountain,United States,The Great American Revolution,18
+32,Six Flags Magic Mountain,United States,THE RIDDLER™’s Revenge,18
+32,Six Flags Magic Mountain,United States,BATMAN™ The Ride,15
+32,Six Flags Magic Mountain,United States,JUSTICE LEAGUE™: Battle for Metropolis,15
+32,Six Flags Magic Mountain,United States,LEX LUTHOR™: Drop of Doom,15
+32,Six Flags Magic Mountain,United States,SCREAM,15
+32,Six Flags Magic Mountain,United States,Trick 'r Treat,13
+32,Six Flags Magic Mountain,United States,Viper,10
+32,Six Flags Magic Mountain,United States,Wolves' Blood,10
+32,Six Flags Magic Mountain,United States,Gold Rusher,8
+32,Six Flags Magic Mountain,United States,Dive Devil,7
+32,Six Flags Magic Mountain,United States,Jammin' Bumpers,7
+32,Six Flags Magic Mountain,United States,Buccaneer,5
+32,Six Flags Magic Mountain,United States,Circuit Breaker Grand Prix,5
+32,Six Flags Magic Mountain,United States,Swashbuckler,5
+32,Six Flags Magic Mountain,United States,Willoughby's: Resurrected,5
+32,Six Flags Magic Mountain,United States,Camp Bus,4
+32,Six Flags Magic Mountain,United States,Canyon Cruiser,4
+32,Six Flags Magic Mountain,United States,Daffy’s Forest Four-Wheelers,4
+32,Six Flags Magic Mountain,United States,Funny Flyers,4
+32,Six Flags Magic Mountain,United States,Grand American Carousel,4
+32,Six Flags Magic Mountain,United States,Looney Ballooneys,4
+32,Six Flags Magic Mountain,United States,Merrie Melodies Merrie Go Round,4
+32,Six Flags Magic Mountain,United States,Road Runner Express,4
+32,Six Flags Magic Mountain,United States,Sylvester’s Pounce and Bounce,4
+32,Six Flags Magic Mountain,United States,Magic Mover,3
+32,Six Flags Magic Mountain,United States,Taz’s Tazmanian Train Tours,3
+32,Six Flags Magic Mountain,United States,TEEN TITANS™ Turbo Spin,3
+32,Six Flags Magic Mountain,United States,Camp Duck Amuck Fun Fort,2
+43,Six Flags New England,United States,Quantum Accelerator,37
+43,Six Flags New England,United States,Pandemonium,28
+43,Six Flags New England,United States,HARLEY QUINN™ Spinsanity,25
+43,Six Flags New England,United States,Thunderbolt,24
+43,Six Flags New England,United States,Blizzard River,23
+43,Six Flags New England,United States,THE RIDDLER™ Revenge,23
+43,Six Flags New England,United States,SUPERMAN™ The Ride,22
+43,Six Flags New England,United States,Wicked Cyclone,19
+43,Six Flags New England,United States,BATMAN THE DARK KNIGHT™,18
+43,Six Flags New England,United States,New England SkyScreamer,18
+43,Six Flags New England,United States,GOTHAM CITY GAUNTLET ESCAPE FROM ARKHAM ASYLUM™,16
+43,Six Flags New England,United States,Scream,16
+43,Six Flags New England,United States,THE JOKER™ 4D Free Fly Coaster,15
+43,Six Flags New England,United States,CYBORG™ Hyper Drive,13
+43,Six Flags New England,United States,Dino Off Road Adventure,12
+43,Six Flags New England,United States,Scrambler,9
+43,Six Flags New England,United States,Stampede Bumper Cars Remix,9
+43,Six Flags New England,United States,Tea Cups,9
+43,Six Flags New England,United States,Flashback,8
+43,Six Flags New England,United States,SUPERGIRL™ Sky Flyer,8
+43,Six Flags New England,United States,CATWOMAN™ Whip,7
+43,Six Flags New England,United States,The Great Chase,7
+43,Six Flags New England,United States,Balloon Race,6
+43,Six Flags New England,United States,GOTHAM CITY™ Crime Wave,6
+43,Six Flags New England,United States,Houdini - The Great Escape,6
+43,Six Flags New England,United States,New England Express,6
+43,Six Flags New England,United States,1909 Illions Grand Carousel,5
+43,Six Flags New England,United States,Animation Department,5
+43,Six Flags New England,United States,Daffy Duck Hollywood Tours,5
+43,Six Flags New England,United States,Rock N Rodeo,5
+43,Six Flags New England,United States,Ships Ahoy!,5
+43,Six Flags New England,United States,Taz Prop Delivery Company,5
+43,Six Flags New England,United States,Tweety's Clubhouse,5
+43,Six Flags New England,United States,Krazy Kars,4
+43,Six Flags New England,United States,Krazy Kups,4
+43,Six Flags New England,United States,Wacky Wagons,4
+43,Six Flags New England,United States,Wile E. Coyote Speed Trap,4
+43,Six Flags New England,United States,Zinger Swings,4
+43,Six Flags New England,United States,Zoom Jets,4
+35,Six Flags Over Georgia,United States,Dare Devil Dive,35
+35,Six Flags Over Georgia,United States,Twisted Cyclone,29
+35,Six Flags Over Georgia,United States,SUPERMAN™: Ultimate Flight,27
+35,Six Flags Over Georgia,United States,Goliath,24
+35,Six Flags Over Georgia,United States,Thunder River,23
+35,Six Flags Over Georgia,United States,JUSTICE LEAGUE™: Battle for Metropolis,22
+35,Six Flags Over Georgia,United States,BATMAN™ The Ride,20
+35,Six Flags Over Georgia,United States,Georgia Scorcher,18
+35,Six Flags Over Georgia,United States,Monster Mansion,18
+35,Six Flags Over Georgia,United States,CATWOMAN Whip,17
+35,Six Flags Over Georgia,United States,THE RIDDLER Mindbender,17
+35,Six Flags Over Georgia,United States,Pandemonium,16
+35,Six Flags Over Georgia,United States,Georgia Gold Rusher,15
+35,Six Flags Over Georgia,United States,THE JOKER™ Funhouse Coaster,15
+35,Six Flags Over Georgia,United States,Hanson Cars,14
+35,Six Flags Over Georgia,United States,The Great American Scream Machine,14
+35,Six Flags Over Georgia,United States,Dahlonega Mine Train,13
+35,Six Flags Over Georgia,United States,Blue Hawk,12
+35,Six Flags Over Georgia,United States,SkyScreamer,12
+35,Six Flags Over Georgia,United States,Acrophobia,11
+35,Six Flags Over Georgia,United States,Log Jamboree,11
+35,Six Flags Over Georgia,United States,Marthasville Railroad Station,11
+35,Six Flags Over Georgia,United States,HARLEY QUINN™ Wild Whirl,10
+35,Six Flags Over Georgia,United States,Rabun Gap Railroad Station,10
+35,Six Flags Over Georgia,United States,POISON IVY Toxic Spin,9
+35,Six Flags Over Georgia,United States,SUPERMAN™:Tower of Power,8
+35,Six Flags Over Georgia,United States,Daffy Duck Bucket Blasters,6
+35,Six Flags Over Georgia,United States,Looney Tunes Adventure Camp,6
+35,Six Flags Over Georgia,United States,Riverview Carousel,6
+35,Six Flags Over Georgia,United States,Rockin’ Tug,6
+35,Six Flags Over Georgia,United States,The BATCOPTERS™,6
+35,Six Flags Over Georgia,United States,"Up, Up and Away",6
+35,Six Flags Over Georgia,United States,Yosemite Sam Wacky Wagons,6
+35,Six Flags Over Georgia,United States,WONDER WOMAN™ Flight School,5
+35,Six Flags Over Georgia,United States,DC SUPER-VILLAINS™ Swing,2
+34,Six Flags Over Texas,United States,New Texas Giant,36
+34,Six Flags Over Texas,United States,Tormenta Rampaging Run,36
+34,Six Flags Over Texas,United States,The Conjuring Universe,31
+34,Six Flags Over Texas,United States,THE RIDDLER™'s Revenge,31
+34,Six Flags Over Texas,United States,MR. FREEZE,29
+34,Six Flags Over Texas,United States,Pandemonium,28
+34,Six Flags Over Texas,United States,JUSTICE LEAGUE™: Battle for METROPOLIS,26
+34,Six Flags Over Texas,United States,AQUAMAN: Power Wave,23
+34,Six Flags Over Texas,United States,Runaway Mountain,23
+34,Six Flags Over Texas,United States,Dino Off Road Adventure,22
+34,Six Flags Over Texas,United States,The Strangers: No Escape,22
+34,Six Flags Over Texas,United States,SUPERMAN: Tower of Power,21
+34,Six Flags Over Texas,United States,BATMAN™ The Ride,20
+34,Six Flags Over Texas,United States,Roaring Rapids,20
+34,Six Flags Over Texas,United States,THE JOKER,20
+34,Six Flags Over Texas,United States,El Aserradero,19
+34,Six Flags Over Texas,United States,Texas SkyScreamer,18
+34,Six Flags Over Texas,United States,Eversmile Industries,17
+34,Six Flags Over Texas,United States,Titan,17
+34,Six Flags Over Texas,United States,Pirates of Speelunker Cave,15
+34,Six Flags Over Texas,United States,Runaway Mine Train,13
+34,Six Flags Over Texas,United States,Terror at the Polynesian Palm,12
+34,Six Flags Over Texas,United States,SAW: Legacy of Terror,11
+34,Six Flags Over Texas,United States,Shock Wave,11
+34,Six Flags Over Texas,United States,CATWOMAN Whip,10
+34,Six Flags Over Texas,United States,Casa Magnetica,9
+34,Six Flags Over Texas,United States,Judge Roy Scream,9
+34,Six Flags Over Texas,United States,Mini Mine Train,8
+34,Six Flags Over Texas,United States,Dive Bomber Alley,7
+34,Six Flags Over Texas,United States,El Sombrero,6
+34,Six Flags Over Texas,United States,Gunslinger,6
+34,Six Flags Over Texas,United States,Oil Derrick,6
+34,Six Flags Over Texas,United States,Rodeo,6
+34,Six Flags Over Texas,United States,Six Flags Speedway Go Karts,6
+34,Six Flags Over Texas,United States,Wile E. Coyote’s Grand Canyon Blaster,6
+34,Six Flags Over Texas,United States,BATWING,5
+34,Six Flags Over Texas,United States,Boot Scootin,5
+34,Six Flags Over Texas,United States,Bugs Bunny Cloud Bouncer,5
+34,Six Flags Over Texas,United States,Caddo Lake Barge,5
+34,Six Flags Over Texas,United States,Daffy Duck Bucket Blasters,5
+34,Six Flags Over Texas,United States,La Fiesta de las Tazas,5
+34,Six Flags Over Texas,United States,Marvin the Martian Space Rockets,5
+34,Six Flags Over Texas,United States,Sidewinder,5
+34,Six Flags Over Texas,United States,Silver Star Carousel,5
+34,Six Flags Over Texas,United States,Speedy Gonzales’ Truckin’ Across America,5
+34,Six Flags Over Texas,United States,Taz Tornado Swings,5
+34,Six Flags Over Texas,United States,Cloud Bouncer,4
+34,Six Flags Over Texas,United States,Looney Tunes Adventure Camp,4
+34,Six Flags Over Texas,United States,Sylvester and Tweety Pounce and Bounce,4
+46,"Six Flags White Water, Atlanta",United States,[Archived] Run-A-Way River,34
+46,"Six Flags White Water, Atlanta",United States,[Archived] Tornado,30
+46,"Six Flags White Water, Atlanta",United States,[Archived] Dive Bomber,25
+46,"Six Flags White Water, Atlanta",United States,[Archived] Python Plunge,23
+46,"Six Flags White Water, Atlanta",United States,[Archived] Bahama Bob Slide,22
+46,"Six Flags White Water, Atlanta",United States,[Archived] Dragon’s Tail,19
+46,"Six Flags White Water, Atlanta",United States,[Archived] Gulf Coast Screamer,19
+46,"Six Flags White Water, Atlanta",United States,[Archived] Tidal Wave,19
+46,"Six Flags White Water, Atlanta",United States,[Archived] Typhoon Twister,19
+46,"Six Flags White Water, Atlanta",United States,[Archived] Black River Falls,16
+46,"Six Flags White Water, Atlanta",United States,[Archived] Wahoo Racer,16
+46,"Six Flags White Water, Atlanta",United States,[Archived] Body Flumes,15
+46,"Six Flags White Water, Atlanta",United States,[Archived] Three-Slide Body Flume,15
+46,"Six Flags White Water, Atlanta",United States,[Archived] Bermuda Triangle,13
+46,"Six Flags White Water, Atlanta",United States,[Archived] Caribbean Plunge,13
+46,"Six Flags White Water, Atlanta",United States,[Archived] Lilypad Crossing,11
+46,"Six Flags White Water, Atlanta",United States,[Archived] Lizard’s Tail,10
+46,"Six Flags White Water, Atlanta",United States,[Archived] Mutiny Chute,9
+334,Epic Universe,United States,Harry Potter and the Battle at the Ministry™,101
+334,Epic Universe,United States,Mine-Cart Madness™,91
+334,Epic Universe,United States,Mario Kart™: Bowser's Challenge,66
+334,Epic Universe,United States,Meet Toothless and Friends,63
+334,Epic Universe,United States,Hiccup's Wing Gliders,34
+334,Epic Universe,United States,Curse of the Werewolf,32
+334,Epic Universe,United States,Dragon Racer's Rally,25
+334,Epic Universe,United States,Stardust Racers,24
+334,Epic Universe,United States,Yoshi's Adventure™,24
+334,Epic Universe,United States,Fyre Drill,20
+334,Epic Universe,United States,Monsters Unchained: The Frankenstein Experiment,17
+334,Epic Universe,United States,Constellation Carousel,14
+334,Epic Universe,United States,Bowser Jr. Challenge,6
+64,Islands Of Adventure At Universal Orlando,United States,Hagrid's Magical Creatures Motorbike Adventure™,94
+64,Islands Of Adventure At Universal Orlando,United States,Jurassic World VelociCoaster,56
+64,Islands Of Adventure At Universal Orlando,United States,Skull Island: Reign of Kong,35
+64,Islands Of Adventure At Universal Orlando,United States,Flight of the Hippogriff™,34
+64,Islands Of Adventure At Universal Orlando,United States,Harry Potter and the Forbidden Journey™,32
+64,Islands Of Adventure At Universal Orlando,United States,Pteranodon Flyers,32
+64,Islands Of Adventure At Universal Orlando,United States,The Incredible Hulk Coaster®,32
+64,Islands Of Adventure At Universal Orlando,United States,The Amazing Adventures of Spider-Man®,29
+64,Islands Of Adventure At Universal Orlando,United States,Dudley Do-Right's Ripsaw Falls®,27
+64,Islands Of Adventure At Universal Orlando,United States,Hogwarts Express™ - Hogsmeade™ Station,22
+64,Islands Of Adventure At Universal Orlando,United States,Jurassic Park River Adventure,22
+64,Islands Of Adventure At Universal Orlando,United States,The High in the Sky Seuss Trolley Train Ride!™,20
+64,Islands Of Adventure At Universal Orlando,United States,Doctor Doom's Fearfall®,15
+64,Islands Of Adventure At Universal Orlando,United States,"One Fish, Two Fish, Red Fish, Blue Fish™",13
+64,Islands Of Adventure At Universal Orlando,United States,Popeye & Bluto's Bilge-Rat Barges®,13
+64,Islands Of Adventure At Universal Orlando,United States,Ollivanders™ Experience in Hogsmeade™,12
+64,Islands Of Adventure At Universal Orlando,United States,The Cat in The Hat™,9
+64,Islands Of Adventure At Universal Orlando,United States,Caro-Seuss-el™,6
+64,Islands Of Adventure At Universal Orlando,United States,Storm Force Accelatron®,6
+65,Universal Studios At Universal Orlando,United States,Harry Potter and the Escape from Gringotts™,45
+65,Universal Studios At Universal Orlando,United States,Despicable Me Minion Mayhem™,39
+65,Universal Studios At Universal Orlando,United States,Hogwarts Express™ - King's Cross Station,32
+65,Universal Studios At Universal Orlando,United States,Revenge of the Mummy,31
+65,Universal Studios At Universal Orlando,United States,TRANSFORMERS™: The Ride-3D,28
+65,Universal Studios At Universal Orlando,United States,The Simpsons Ride™,25
+65,Universal Studios At Universal Orlando,United States,E.T. Adventure,24
+65,Universal Studios At Universal Orlando,United States,MEN IN BLACK™ Alien Attack!,21
+65,Universal Studios At Universal Orlando,United States,Trolls Trollercoaster,18
+65,Universal Studios At Universal Orlando,United States,Kang & Kodos' Twirl 'n' Hurl,16
+65,Universal Studios At Universal Orlando,United States,Race Through New York Starring Jimmy Fallon,15
+65,Universal Studios At Universal Orlando,United States,Illumination's Villain-Con Minion Blast,12
+65,Universal Studios At Universal Orlando,United States,Hogwarts™ Express - First Train,9
+65,Universal Studios At Universal Orlando,United States,Ollivanders™ Experience in Diagon Alley™,6
+66,Universal Studios Hollywood,United States,Fast & Furious: Hollywood Drift,88
+66,Universal Studios Hollywood,United States,Mario Kart™: Bowser’s Challenge,45
+66,Universal Studios Hollywood,United States,The Simpsons Ride™,37
+66,Universal Studios Hollywood,United States,TRANSFORMERS™: The Ride-3D,34
+66,Universal Studios Hollywood,United States,Jurassic World - The Ride,30
+66,Universal Studios Hollywood,United States,The Secret Life of Pets: Off the Leash,30
+66,Universal Studios Hollywood,United States,Despicable Me Minion Mayhem,28
+66,Universal Studios Hollywood,United States,Revenge of the Mummy – The Ride,28
+66,Universal Studios Hollywood,United States,Harry Potter and the Forbidden Journey™,25
+66,Universal Studios Hollywood,United States,Studio Tour,23
+66,Universal Studios Hollywood,United States,Ollivanders™,19
+66,Universal Studios Hollywood,United States,Flight of the Hippogriff™,18
+66,Universal Studios Hollywood,United States,Kung Fu Panda Adventure,15
+66,Universal Studios Hollywood,United States,Silly Swirly,11
+66,Universal Studios Hollywood,United States,Bowser Jr. Challenge,5
+67,Universal Volcano Bay,United States,[Archived] Krakatau Aqua Coaster,27
+67,Universal Volcano Bay,United States,[Archived] Kala & Tai Nui Serpentine Body Slides,21
+67,Universal Volcano Bay,United States,[Archived] Ohno of Ohyah & Ohno Drop Slides,18
+67,Universal Volcano Bay,United States,[Archived] Honu of Honu ika Moana,14
+67,Universal Volcano Bay,United States,[Archived] Ko'okiri Body Plunge,13
+67,Universal Volcano Bay,United States,[Archived] Puka Uli Lagoon,12
+67,Universal Volcano Bay,United States,[Archived] Ohyah of Ohyah & Ohno Drop Slides,11
+67,Universal Volcano Bay,United States,[Archived] Punga Racers,11
+67,Universal Volcano Bay,United States,[Archived] ika Moana of Honu ika Moana,10
+67,Universal Volcano Bay,United States,[Archived] Puihi of Maku Puihi Round Raft Rides™,10
+67,Universal Volcano Bay,United States,[Archived] Maku of Maku Puihi Round Raft Rides™,7
+67,Universal Volcano Bay,United States,[Archived] Kopiko Wai Winding River,6
+67,Universal Volcano Bay,United States,[Archived] Taniwha Tubes™,6
+8,Animal Kingdom,United States,Avatar Flight of Passage,80
+8,Animal Kingdom,United States,Na'vi River Journey,45
+8,Animal Kingdom,United States,Kilimanjaro Safaris,38
+8,Animal Kingdom,United States,Meet Favorite Disney Pals at Adventurers Outpost,34
+8,Animal Kingdom,United States,Kali River Rapids,30
+8,Animal Kingdom,United States,Expedition Everest - Legend of the Forbidden Mountain,25
+8,Animal Kingdom,United States,Bluey's Wild World at Conservation Station,22
+8,Animal Kingdom,United States,Zootopia: Better Zoogether!,12
+8,Animal Kingdom,United States,Wildlife Express Train,8
+8,Animal Kingdom,United States,Gorilla Falls Exploration Trail,5
+17,Disney California Adventure,United States,Radiator Springs Racers,75
+17,Disney California Adventure,United States,Guardians of the Galaxy - Mission: BREAKOUT!,46
+17,Disney California Adventure,United States,Toy Story Midway Mania!,44
+17,Disney California Adventure,United States,WEB SLINGERS: A Spider-Man Adventure,34
+17,Disney California Adventure,United States,Soarin’ Across America,31
+17,Disney California Adventure,United States,Goofy's Sky School,28
+17,Disney California Adventure,United States,Incredicoaster,27
+17,Disney California Adventure,United States,Pixar Pal-A-Round - Swinging,25
+17,Disney California Adventure,United States,Grizzly River Run,24
+17,Disney California Adventure,United States,Pixar Pal-A-Round – Non-Swinging,23
+17,Disney California Adventure,United States,Luigi's Joy to the Whirl,22
+17,Disney California Adventure,United States,"Monsters, Inc. Mike & Sulley to the Rescue!",22
+17,Disney California Adventure,United States,Inside Out Emotional Whirlwind,16
+17,Disney California Adventure,United States,Mater's Jingle Jamboree,16
+17,Disney California Adventure,United States,Jumpin' Jellyfish,10
+17,Disney California Adventure,United States,Mickey's PhilharMagic,10
+17,Disney California Adventure,United States,Silly Symphony Swings,10
+17,Disney California Adventure,United States,The Little Mermaid - Ariel's Undersea Adventure,10
+17,Disney California Adventure,United States,Golden Zephyr,7
+17,Disney California Adventure,United States,Jessie's Critter Carousel,6
+17,Disney California Adventure,United States,Animation Academy,5
+17,Disney California Adventure,United States,Games of Pixar Pier,5
+17,Disney California Adventure,United States,Redwood Creek Challenge Trail,5
+17,Disney California Adventure,United States,Turtle Talk with Crush,5
+7,Disney Hollywood Studios,United States,Slinky Dog Dash,70
+7,Disney Hollywood Studios,United States,Star Wars: Rise of the Resistance,69
+7,Disney Hollywood Studios,United States,The Little Mermaid – A Musical Adventure,49
+7,Disney Hollywood Studios,United States,The Twilight Zone™ Tower of Terror,46
+7,Disney Hollywood Studios,United States,Mickey & Minnie's Runaway Railway,42
+7,Disney Hollywood Studios,United States,Rock ’n’ Roller Coaster Starring The Muppets,42
+7,Disney Hollywood Studios,United States,Toy Story Mania!,42
+7,Disney Hollywood Studios,United States,Meet Stitch at Celebrity Spotlight at Disney Jollywood Nights,41
+7,Disney Hollywood Studios,United States,Millennium Falcon: Smugglers Run,40
+7,Disney Hollywood Studios,United States,Meet Disney Stars at Red Carpet Dreams,36
+7,Disney Hollywood Studios,United States,Alien Swirling Saucers,23
+7,Disney Hollywood Studios,United States,Meet Olaf at Celebrity Spotlight,18
+7,Disney Hollywood Studios,United States,Star Tours – The Adventures Continue,15
+7,Disney Hollywood Studios,United States,Walt Disney Presents,15
+7,Disney Hollywood Studios,United States,Meet Edna Mode at the Edna Mode Experience,14
+7,Disney Hollywood Studios,United States,Vacation Fun - An Original Animated Short with Mickey & Minnie,10
+6,Disney Magic Kingdom,United States,Seven Dwarfs Mine Train,67
+6,Disney Magic Kingdom,United States,TRON Lightcycle / Run,60
+6,Disney Magic Kingdom,United States,Peter Pan's Flight,51
+6,Disney Magic Kingdom,United States,Space Mountain,42
+6,Disney Magic Kingdom,United States,Big Thunder Mountain Railroad,36
+6,Disney Magic Kingdom,United States,Jingle Cruise,35
+6,Disney Magic Kingdom,United States,Haunted Mansion,33
+6,Disney Magic Kingdom,United States,Meet Visiting Princesses at Princess Fairytale Hall,33
+6,Disney Magic Kingdom,United States,Meet Ariel at Her Grotto,32
+6,Disney Magic Kingdom,United States,Tiana's Bayou Adventure,32
+6,Disney Magic Kingdom,United States,Meet Cinderella and Princess Tiana at Princess Fairytale Hall,31
+6,Disney Magic Kingdom,United States,Meet Mickey at Town Square Theater,30
+6,Disney Magic Kingdom,United States,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,29
+6,Disney Magic Kingdom,United States,Meet Santa Jack and Sally at Mickey’s Very Merry Christmas Party,29
+6,Disney Magic Kingdom,United States,The Many Adventures of Winnie the Pooh,27
+6,Disney Magic Kingdom,United States,Buzz Lightyear’s Space Ranger Spin,26
+6,Disney Magic Kingdom,United States,Enchanted Tales with Belle,26
+6,Disney Magic Kingdom,United States,Pirates of the Caribbean,26
+6,Disney Magic Kingdom,United States,Astro Orbiter,22
+6,Disney Magic Kingdom,United States,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,22
+6,Disney Magic Kingdom,United States,"""it's a small world""",17
+6,Disney Magic Kingdom,United States,Tomorrowland Speedway,17
+6,Disney Magic Kingdom,United States,The Magic Carpets of Aladdin,16
+6,Disney Magic Kingdom,United States,Walt Disney World Railroad - Fantasyland,16
+6,Disney Magic Kingdom,United States,The Barnstormer,15
+6,Disney Magic Kingdom,United States,Under the Sea - Journey of The Little Mermaid,15
+6,Disney Magic Kingdom,United States,Dumbo the Flying Elephant,14
+6,Disney Magic Kingdom,United States,"Monsters, Inc. Laugh Floor",14
+6,Disney Magic Kingdom,United States,The Hall of Presidents,14
+6,Disney Magic Kingdom,United States,Walt Disney World Railroad - Frontierland,14
+6,Disney Magic Kingdom,United States,"Walt Disney World Railroad - Main Street, U.S.A.",14
+6,Disney Magic Kingdom,United States,Mickey's PhilharMagic,13
+6,Disney Magic Kingdom,United States,Country Bear Musical Jamboree,12
+6,Disney Magic Kingdom,United States,Walt Disney's Enchanted Tiki Room,11
+6,Disney Magic Kingdom,United States,Mad Tea Party,10
+6,Disney Magic Kingdom,United States,Tomorrowland Transit Authority PeopleMover,10
+6,Disney Magic Kingdom,United States,Prince Charming Regal Carrousel,9
+6,Disney Magic Kingdom,United States,Swiss Family Treehouse,5
+6,Disney Magic Kingdom,United States,Walt Disney's Carousel of Progress,5
+16,Disneyland,United States,Star Wars: Rise of the Resistance,64
+16,Disneyland,United States,Space Mountain,46
+16,Disneyland,United States,Indiana Jones™ Adventure,43
+16,Disneyland,United States,Matterhorn Bobsleds,40
+16,Disneyland,United States,Tiana's Bayou Adventure,36
+16,Disneyland,United States,Mickey & Minnie's Runaway Railway,34
+16,Disneyland,United States,Haunted Mansion Holiday,33
+16,Disneyland,United States,Millennium Falcon: Smugglers Run,33
+16,Disneyland,United States,Peter Pan's Flight,33
+16,Disneyland,United States,Roger Rabbit's Car Toon Spin,33
+16,Disneyland,United States,Big Thunder Mountain Railroad,32
+16,Disneyland,United States,Meet Disney Princesses at Royal Hall,32
+16,Disneyland,United States,"""it's a small world"" Holiday",28
+16,Disneyland,United States,Mickey's House and Meet Mickey Mouse,27
+16,Disneyland,United States,Alice in Wonderland,25
+16,Disneyland,United States,Star Tours - The Adventures Continue,24
+16,Disneyland,United States,Main Street Cinema,23
+16,Disneyland,United States,Chip 'n' Dale's GADGETcoaster,21
+16,Disneyland,United States,Finding Nemo Submarine Voyage,21
+16,Disneyland,United States,Pirates of the Caribbean,21
+16,Disneyland,United States,Dumbo the Flying Elephant,20
+16,Disneyland,United States,Autopia,19
+16,Disneyland,United States,Jungle Cruise,19
+16,Disneyland,United States,Astro Orbitor,18
+16,Disneyland,United States,Buzz Lightyear Astro Blasters,18
+16,Disneyland,United States,Storybook Land Canal Boats,17
+16,Disneyland,United States,Mr. Toad's Wild Ride,15
+16,Disneyland,United States,Snow White's Enchanted Wish,15
+16,Disneyland,United States,Adventureland Treehouse inspired by Walt Disney’s Swiss Family Robinson,14
+16,Disneyland,United States,Casey Jr. Circus Train,13
+16,Disneyland,United States,Disneyland Railroad,13
+16,Disneyland,United States,Pinocchio's Daring Journey,12
+16,Disneyland,United States,Davy Crockett's Explorer Canoes,11
+16,Disneyland,United States,Disneyland Railroad - Mickey's Toontown,10
+16,Disneyland,United States,Mad Tea Party,10
+16,Disneyland,United States,Mark Twain Riverboat,10
+16,Disneyland,United States,Sailing Ship Columbia,10
+16,Disneyland,United States,The Many Adventures of Winnie the Pooh,10
+16,Disneyland,United States,Disneyland Railroad - New Orleans Square,9
+16,Disneyland,United States,"Disneyland Railroad Main Street, U.S.A. Station",9
+16,Disneyland,United States,Disneyland Railroad - Tomorrowland,8
+16,Disneyland,United States,King Arthur Carrousel,8
+16,Disneyland,United States,Walt Disney's Enchanted Tiki Room,8
+16,Disneyland,United States,Disneyland Monorail,7
+16,Disneyland,United States,Pirate's Lair on Tom Sawyer Island,5
+5,Epcot,United States,Guardians of the Galaxy: Cosmic Rewind,63
+5,Epcot,United States,Remy's Ratatouille Adventure,57
+5,Epcot,United States,Test Track,56
+5,Epcot,United States,Frozen Ever After,52
+5,Epcot,United States,Meet Anna and Elsa at Royal Sommerhus,34
+5,Epcot,United States,Meet Beloved Disney Pals at Mickey & Friends,24
+5,Epcot,United States,Mission: SPACE,19
+5,Epcot,United States,Soarin' Across America,17
+5,Epcot,United States,Canada Far and Wide in Circle-Vision 360,14
+5,Epcot,United States,Spaceship Earth,14
+5,Epcot,United States,Turtle Talk With Crush,14
+5,Epcot,United States,Awesome Planet,12
+5,Epcot,United States,Journey Into Imagination With Figment,12
+5,Epcot,United States,Living with the Land,11
+5,Epcot,United States,The Seas with Nemo & Friends,11
+5,Epcot,United States,Gran Fiesta Tour Starring The Three Caballeros,10
+5,Epcot,United States,Disney and Pixar Short Film Festival,8
+5,Epcot,United States,"Journey of Water, Inspired by Moana",6
